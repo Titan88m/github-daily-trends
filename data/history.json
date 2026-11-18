@@ -14374,5 +14374,3624 @@
         "seen": "2026-11-17"
       }
     }
+  },
+  {
+    "date": "2026-11-18",
+    "tracked_count": 903,
+    "new_count": 777,
+    "repositories": {
+      "SoliSpirit/SolVPN": {
+        "stars": 59,
+        "seen": "2026-11-18"
+      },
+      "Lars-/PIA-servers": {
+        "stars": 155,
+        "seen": "2026-11-18"
+      },
+      "chartcatalogs/catalogs": {
+        "stars": 30,
+        "seen": "2026-11-18"
+      },
+      "malaohu/GitHubHosts": {
+        "stars": 184,
+        "seen": "2026-11-18"
+      },
+      "erickdeoliveiraleal/josm-strava-tracer": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "fynks/awesome-temporary-root": {
+        "stars": 142,
+        "seen": "2026-11-18"
+      },
+      "huaxialucaicaizi/business-plan-skill": {
+        "stars": 167,
+        "seen": "2026-11-18"
+      },
+      "Nomaryth/AgnesBot": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "n8n-io/n8n": {
+        "stars": 210859,
+        "seen": "2026-11-18"
+      },
+      "TaiwanVtuberData/TaiwanVTuberTrackingDataJson": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "kOlapsis/palier": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "qxchuckle/lattice": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "CoolNinja2009/ScreenPlus": {
+        "stars": 54,
+        "seen": "2026-11-18"
+      },
+      "solovyov-jenya2004/all_subs": {
+        "stars": 87,
+        "seen": "2026-11-18"
+      },
+      "sm-monirulislam/Upcoming-and-Live-Sports-Data": {
+        "stars": 25,
+        "seen": "2026-11-18"
+      },
+      "Xiaobei09/proxyip": {
+        "stars": 24,
+        "seen": "2026-11-18"
+      },
+      "MultiMC/meta-upstream": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "zloi-user/hideip.me": {
+        "stars": 515,
+        "seen": "2026-11-18"
+      },
+      "M1noa/proxypool": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "joeavanzato/recent_c2_infrastructure": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "0xDanielLopez/TweetFeed": {
+        "stars": 701,
+        "seen": "2026-11-18"
+      },
+      "django-components/django-components": {
+        "stars": 1519,
+        "seen": "2026-11-18"
+      },
+      "mandyoquinha-hash/Morphe-Builds-Recommended-Rooted": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "themiralay/Proxy-List-World": {
+        "stars": 185,
+        "seen": "2026-11-18"
+      },
+      "feedarchive/libera-feedbot-live": {
+        "stars": 38,
+        "seen": "2026-11-18"
+      },
+      "Fakeonomics/libre-configs": {
+        "stars": 42,
+        "seen": "2026-11-18"
+      },
+      "theniitettey/dsa-grind": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "andrewjswan/pixel-clock": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "Nox-HQ/nox": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "AncientiCe/palace-rs": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "joetek/aws-ip-ranges-json": {
+        "stars": 187,
+        "seen": "2026-11-18"
+      },
+      "tiobeharxi1987/blender-ai-copilot-flow": {
+        "stars": 514,
+        "seen": "2026-11-18"
+      },
+      "Vanyangyang/cursor-bridge": {
+        "stars": 84,
+        "seen": "2026-11-18"
+      },
+      "gfazioli/next-app-nextra-template": {
+        "stars": 38,
+        "seen": "2026-11-18"
+      },
+      "imatixofficel/Scanner-matix": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "Trackerino/cloudstorage-tracker": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "ApplyGuy/2027-Internships": {
+        "stars": 44,
+        "seen": "2026-11-18"
+      },
+      "ApplyGuy/2027-New-Grad-Jobs": {
+        "stars": 36,
+        "seen": "2026-11-18"
+      },
+      "WildernessLabs/Meadow_Issues": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "hproxy-com/free-proxy-list": {
+        "stars": 94,
+        "seen": "2026-11-18"
+      },
+      "mozilla-l10n/android-l10n": {
+        "stars": 24,
+        "seen": "2026-11-18"
+      },
+      "cluntop/tvbox": {
+        "stars": 702,
+        "seen": "2026-11-18"
+      },
+      "sayanpal514-hue/FANCODE-AUTO-UPDATED-PLAYLIST": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "chromium/chromium": {
+        "stars": 25381,
+        "seen": "2026-11-18"
+      },
+      "ZhhHugoChang/PushTV": {
+        "stars": 106,
+        "seen": "2026-11-18"
+      },
+      "rishikeshsreehari/personal-blog": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "nwverse/persona": {
+        "stars": 372,
+        "seen": "2026-11-18"
+      },
+      "sportlive18/Sonyliv-Playlist-Autoupdate": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "aquasecurity/vuln-list": {
+        "stars": 471,
+        "seen": "2026-11-18"
+      },
+      "TheJumpCloud/jumpcloud-docs-public": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "RDX-Sci01/HEN-PPSA-Cheats": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "asadahimeka/yandere-masonry": {
+        "stars": 204,
+        "seen": "2026-11-18"
+      },
+      "ShadowWhisperer/IPs": {
+        "stars": 215,
+        "seen": "2026-11-18"
+      },
+      "incognitochat/incognitochat": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "Mike1978uk/win95-intel-inboard-386pc": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "mozilla-l10n/firefoxios-l10n": {
+        "stars": 19,
+        "seen": "2026-11-18"
+      },
+      "heygen-com/hyperframes": {
+        "stars": 86280,
+        "seen": "2026-11-18"
+      },
+      "mozilla-l10n/sumo-l10n": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "JadenMeister/pgard": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "ryonive/Dalamud-Darkness-Repo": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "JetBrains/junie-github-action": {
+        "stars": 34,
+        "seen": "2026-11-18"
+      },
+      "joaorb64/SmashTwitterBot": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "aviamastersgh/mtproto-free-russia": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "Glitch31415/rws": {
+        "stars": 52,
+        "seen": "2026-11-18"
+      },
+      "Edmund724/BiliScript": {
+        "stars": 19,
+        "seen": "2026-11-18"
+      },
+      "software-mansion/TypeGPU": {
+        "stars": 3326,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/Hashing-and-Dictionary-Patterns": {
+        "stars": 61,
+        "seen": "2026-11-18"
+      },
+      "opencve/opencve-kb": {
+        "stars": 36,
+        "seen": "2026-11-18"
+      },
+      "manaflow-ai/cmux": {
+        "stars": 28821,
+        "seen": "2026-11-18"
+      },
+      "amirkma/proxykma": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "Nhazlipse/Nhazlipse": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "GeorgeXie2333/vpngate-list-mirror": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "bitcoin-data/github-metadata-backup-bitcoin-bitcoin": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "hetao29/slightphp": {
+        "stars": 113,
+        "seen": "2026-11-18"
+      },
+      "zigai/pi-extensions": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "InfernetProtocol/infernet-protocol": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "stormsia/proxy-list": {
+        "stars": 39,
+        "seen": "2026-11-18"
+      },
+      "HuggingMath/TheoremOS": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "Infinitum-IT/IOAs": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "roosterkid/openproxylist": {
+        "stars": 948,
+        "seen": "2026-11-18"
+      },
+      "mahsanet/MahsaFreeConfig": {
+        "stars": 230,
+        "seen": "2026-11-18"
+      },
+      "Danilqa/kombinat": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "simonw/usgs-scraper": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "NETMOUNTAINS/Curated-IP-Blocklist": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "Kolandone/v2raycollector": {
+        "stars": 67,
+        "seen": "2026-11-18"
+      },
+      "Cotal-AI/Cotal": {
+        "stars": 400,
+        "seen": "2026-11-18"
+      },
+      "Sturmi77/heatpump-hydraulic-card": {
+        "stars": 58,
+        "seen": "2026-11-18"
+      },
+      "lanzm/MetaFetch": {
+        "stars": 59,
+        "seen": "2026-11-18"
+      },
+      "opentimestamps/nist-inject": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "proabiral/Fresh-Resolvers": {
+        "stars": 114,
+        "seen": "2026-11-18"
+      },
+      "sayanpal514-hue/SONYLIV-AUTO-UPDATED-PLAYLIST": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "francordel/myrtia": {
+        "stars": 37,
+        "seen": "2026-11-18"
+      },
+      "ProxyScrape/free-proxy-list": {
+        "stars": 230,
+        "seen": "2026-11-18"
+      },
+      "lexmount/moli": {
+        "stars": 23993,
+        "seen": "2026-11-18"
+      },
+      "s3lfcod3r/SelfBike": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "shuind/dsh-codex-harness": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "haijun93/HWP_AutoDocFit": {
+        "stars": 32,
+        "seen": "2026-11-18"
+      },
+      "sportlive18/Fancode-New-Auto-Update": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "HMAKT99/Agasthy": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "benfoxall/scrape": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "iran-market/iran-market.github.io": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "grafana/grafana": {
+        "stars": 77987,
+        "seen": "2026-11-18"
+      },
+      "fbreve/LPCN": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "abysswatcherbel/abysswatcherbel.github.io": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "7c/torfilter": {
+        "stars": 21,
+        "seen": "2026-11-18"
+      },
+      "s3r3t0/sereto": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "wista-api-project/auto": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "Marlboro62/meteo-card": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "mistralai/cookbook": {
+        "stars": 2368,
+        "seen": "2026-11-18"
+      },
+      "penhandev/AutoAiVPN": {
+        "stars": 66,
+        "seen": "2026-11-18"
+      },
+      "cbusifabcap/daily_free_vpn": {
+        "stars": 429,
+        "seen": "2026-11-18"
+      },
+      "misakaio/chnroutes2": {
+        "stars": 879,
+        "seen": "2026-11-18"
+      },
+      "TomoeMami/S1PlainTextBackup": {
+        "stars": 548,
+        "seen": "2026-11-18"
+      },
+      "qxoticai/qxotic": {
+        "stars": 197,
+        "seen": "2026-11-18"
+      },
+      "vmheaven/VMHeaven.io-Free-Proxy-List": {
+        "stars": 49,
+        "seen": "2026-11-18"
+      },
+      "mrspoonsi/ARDFTSRC": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "14H034160212/AlphaTrader": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "JuliaData/YAML.jl": {
+        "stars": 143,
+        "seen": "2026-11-18"
+      },
+      "maxmelichov/BlueTTS": {
+        "stars": 158,
+        "seen": "2026-11-18"
+      },
+      "FORARTfe/HyMPS": {
+        "stars": 338,
+        "seen": "2026-11-18"
+      },
+      "lexifina/germany-law": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "neuromancer/wc2-re": {
+        "stars": 47,
+        "seen": "2026-11-18"
+      },
+      "zed-industries/zed": {
+        "stars": 95272,
+        "seen": "2026-11-18"
+      },
+      "ClickHouse/loom": {
+        "stars": 163,
+        "seen": "2026-11-18"
+      },
+      "stablyai/orca": {
+        "stars": 128466,
+        "seen": "2026-11-18"
+      },
+      "Resnovas/Eventiva": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "epfl-lara/ScalaZ3": {
+        "stars": 127,
+        "seen": "2026-11-18"
+      },
+      "Automattic/jetpack": {
+        "stars": 1859,
+        "seen": "2026-11-18"
+      },
+      "iseeyoou26-wq/CryNet-SysTems-VPN-vless": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "nightly-labs/openbot": {
+        "stars": 8813,
+        "seen": "2026-11-18"
+      },
+      "mamorlis/nlpbook": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "aosama/astronomical": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "nexu-io/openmotion": {
+        "stars": 11579,
+        "seen": "2026-11-18"
+      },
+      "zigcc/awesome-zig": {
+        "stars": 2562,
+        "seen": "2026-11-18"
+      },
+      "Nimbleway/webrouter": {
+        "stars": 707,
+        "seen": "2026-11-18"
+      },
+      "vschiavoni/thunderbird-gmail-skin": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "peterhanily/threatcaddy": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/UN-OFFICIAL-KPLC-TOKEN-HISTORY-VIEW": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "Vigil-SOC/vigil": {
+        "stars": 444,
+        "seen": "2026-11-18"
+      },
+      "dankrusi/WindowsVirtualDesktopHelper": {
+        "stars": 975,
+        "seen": "2026-11-18"
+      },
+      "enisaeu/CNW": {
+        "stars": 136,
+        "seen": "2026-11-18"
+      },
+      "cha0upup/LeoAI": {
+        "stars": 333,
+        "seen": "2026-11-18"
+      },
+      "zieng2/wl": {
+        "stars": 3038,
+        "seen": "2026-11-18"
+      },
+      "jay3-yy/BiliPai": {
+        "stars": 5297,
+        "seen": "2026-11-18"
+      },
+      "tkw6688/osu-AssetLinker": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "Dimasssss/free_proxy": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "kupj/cert-store": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "bakup/Serpentarium": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "ag-grid/ag-grid": {
+        "stars": 15688,
+        "seen": "2026-11-18"
+      },
+      "frandbf/Onward-generator": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "flathub/com.stremio.Stremio": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "softwarecorporation/crepuscularity": {
+        "stars": 51,
+        "seen": "2026-11-18"
+      },
+      "yxanul/demongrep": {
+        "stars": 59,
+        "seen": "2026-11-18"
+      },
+      "Sagargupta16/awesome-mcp-servers": {
+        "stars": 128,
+        "seen": "2026-11-18"
+      },
+      "softwarecorporation/alpenglow": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "envirosolutionspl/cyanskin": {
+        "stars": 86,
+        "seen": "2026-11-18"
+      },
+      "DRYTRIX/TimeTracker": {
+        "stars": 644,
+        "seen": "2026-11-18"
+      },
+      "claudioguareschi/opnsense-dashboard-plus": {
+        "stars": 191,
+        "seen": "2026-11-18"
+      },
+      "sunrise-org/sunrise": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "solproxy/sol-free-proxy-list": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "relatedb/relate": {
+        "stars": 379,
+        "seen": "2026-11-18"
+      },
+      "tomkp/smartcard": {
+        "stars": 153,
+        "seen": "2026-11-18"
+      },
+      "armarchindo/advan-v6-flasher": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "lakasir/lakasir": {
+        "stars": 917,
+        "seen": "2026-11-18"
+      },
+      "sdd-org/kiddo": {
+        "stars": 180,
+        "seen": "2026-11-18"
+      },
+      "ethereum/discv4-dns-lists": {
+        "stars": 97,
+        "seen": "2026-11-18"
+      },
+      "AQUA360/aqua360-customers": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "xeodeo/OptiCraft-Heritage-XBOX-CLASSIC-Edition": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "openclaw/openclaw": {
+        "stars": 394719,
+        "seen": "2026-11-18"
+      },
+      "frappe/pilot": {
+        "stars": 132,
+        "seen": "2026-11-18"
+      },
+      "michaelbrowk/SUPERBROWKY": {
+        "stars": 20,
+        "seen": "2026-11-18"
+      },
+      "randomwalkhan/Short-Term-Reversal-Strategy": {
+        "stars": 268,
+        "seen": "2026-11-18"
+      },
+      "huantt/weather-forecast": {
+        "stars": 23,
+        "seen": "2026-11-18"
+      },
+      "sanderland/script_tok": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "hashicorp/terraform": {
+        "stars": 50271,
+        "seen": "2026-11-18"
+      },
+      "timkicker/hometiles": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "Rocklinks/Lumen-Shell": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "BestSolution-at/openfx-uia": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "dsh-tauri/deepseek-harness-desktop": {
+        "stars": 3669,
+        "seen": "2026-11-18"
+      },
+      "koala73/worldmonitor": {
+        "stars": 90876,
+        "seen": "2026-11-18"
+      },
+      "borestad/firehol-mirror": {
+        "stars": 45,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/useful-links": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "anefzaoui/misterdownloadmanager": {
+        "stars": 12710,
+        "seen": "2026-11-18"
+      },
+      "ThijmenDam/BarTranslate": {
+        "stars": 241,
+        "seen": "2026-11-18"
+      },
+      "horizon-rust/horizon": {
+        "stars": 11231,
+        "seen": "2026-11-18"
+      },
+      "Helphyy/pvecli": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "deklica/repo.dexe": {
+        "stars": 43,
+        "seen": "2026-11-18"
+      },
+      "chipload/chipload": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "else-bot/else": {
+        "stars": 20,
+        "seen": "2026-11-18"
+      },
+      "enzonotario/argentinadatos.com": {
+        "stars": 251,
+        "seen": "2026-11-18"
+      },
+      "dashaun-tanzu/spring-office-hours": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "OBDb/Ford-F-150": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "dpangestuw/Free-Proxy": {
+        "stars": 159,
+        "seen": "2026-11-18"
+      },
+      "naimur900/media-controller-gnome": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "Gumpolas/TooTawersRecomp": {
+        "stars": 112,
+        "seen": "2026-11-18"
+      },
+      "kirimatt/goncordia": {
+        "stars": 70,
+        "seen": "2026-11-18"
+      },
+      "pepasjc/xvsf-tag-team": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/portfolio_website": {
+        "stars": 203,
+        "seen": "2026-11-18"
+      },
+      "chriskearney/siliconforest": {
+        "stars": 106,
+        "seen": "2026-11-18"
+      },
+      "MustafaBaqer/VestraNet-Nodes": {
+        "stars": 92,
+        "seen": "2026-11-18"
+      },
+      "buggins/ddbc": {
+        "stars": 81,
+        "seen": "2026-11-18"
+      },
+      "boykopovar/AnyPS5": {
+        "stars": 55227,
+        "seen": "2026-11-18"
+      },
+      "Vitorian/hft-challenges": {
+        "stars": 63,
+        "seen": "2026-11-18"
+      },
+      "nuuuwan/lk_legal_docs": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "aipoch/open-science": {
+        "stars": 5545,
+        "seen": "2026-11-18"
+      },
+      "scijs/fourier-transform": {
+        "stars": 170,
+        "seen": "2026-11-18"
+      },
+      "aminespinoza10/aminespinoza10": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "ktorio/ktor-build": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "rroland10/dex223-bug-bounty": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "gehennawu/dsh-service": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "center2055/OnionHop-Bridges-Collector": {
+        "stars": 37,
+        "seen": "2026-11-18"
+      },
+      "CodingFeng101/CanvasAnvil": {
+        "stars": 196,
+        "seen": "2026-11-18"
+      },
+      "IMGZCQ/MDesk": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "kidus-tiliksew/conveyor": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "lspiehler/iot-hsm": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/Dark-Web": {
+        "stars": 45,
+        "seen": "2026-11-18"
+      },
+      "zexadev/dsh-tether": {
+        "stars": 105,
+        "seen": "2026-11-18"
+      },
+      "DataDog/java-profiler": {
+        "stars": 33,
+        "seen": "2026-11-18"
+      },
+      "grokability/snipe-it": {
+        "stars": 15198,
+        "seen": "2026-11-18"
+      },
+      "drmlive/fancode-live-events": {
+        "stars": 48,
+        "seen": "2026-11-18"
+      },
+      "electarchive/electionsarchive": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "fonoster/qcobro": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "shreyas-bangera/smarttube-phone": {
+        "stars": 257,
+        "seen": "2026-11-18"
+      },
+      "Varanda-org/varanda": {
+        "stars": 25,
+        "seen": "2026-11-18"
+      },
+      "immich-app/immich": {
+        "stars": 119536,
+        "seen": "2026-11-18"
+      },
+      "supabase/supabase": {
+        "stars": 115145,
+        "seen": "2026-11-18"
+      },
+      "vala-lang/tree-sitter-vala": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "wshobson/agents": {
+        "stars": 42647,
+        "seen": "2026-11-18"
+      },
+      "donmiro/rateguard": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "tecmarco10/XianBeeTech-Dashboard": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "penpot/penpot": {
+        "stars": 62505,
+        "seen": "2026-11-18"
+      },
+      "Orange-OpenSource/ns3-iboran": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "red1oon/bim-ootb": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "bigfish1913/pi-rust": {
+        "stars": 281,
+        "seen": "2026-11-18"
+      },
+      "claude89757/free_https_proxies": {
+        "stars": 35,
+        "seen": "2026-11-18"
+      },
+      "CVEProject/cvelistV5": {
+        "stars": 3284,
+        "seen": "2026-11-18"
+      },
+      "garrytan/gstack": {
+        "stars": 141974,
+        "seen": "2026-11-18"
+      },
+      "helsingborg-stad/Municipio": {
+        "stars": 40,
+        "seen": "2026-11-18"
+      },
+      "SeriesOfTubez/reolapse": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "meta/astryx": {
+        "stars": 30424,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/New-Grad-Healthcare-Jobs-2027": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "sanogueralorenzo/sanogueralorenzo.github.io": {
+        "stars": 1782,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/Canada-Internships-2027": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/Internships-2027": {
+        "stars": 5318,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2027": {
+        "stars": 70,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/Canada-Jobs-2027": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/New-Grad-Jobs-2027": {
+        "stars": 1590,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/New-Grad-Data-Science-Jobs-2027": {
+        "stars": 93,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/awesome-ml-internships-2027": {
+        "stars": 471,
+        "seen": "2026-11-18"
+      },
+      "zapplyjobs/New-Grad-Software-Engineering-Jobs-2027": {
+        "stars": 78,
+        "seen": "2026-11-18"
+      },
+      "kaifaty/GothicAI": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "omnigent-ai/omnigent": {
+        "stars": 11415,
+        "seen": "2026-11-18"
+      },
+      "earayu/Mingle": {
+        "stars": 47,
+        "seen": "2026-11-18"
+      },
+      "containerbase/base": {
+        "stars": 61,
+        "seen": "2026-11-18"
+      },
+      "gekkekoe/heatpump-optimizer": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "dkhamsing/open-source-ios-apps": {
+        "stars": 53339,
+        "seen": "2026-11-18"
+      },
+      "xunianooo/All-in": {
+        "stars": 72,
+        "seen": "2026-11-18"
+      },
+      "missing-elements/h5p-toolkit": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "antonbabenko/deliberation": {
+        "stars": 186,
+        "seen": "2026-11-18"
+      },
+      "Pinguini-alla-Fragola/Progetto-SAD": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "rerun-build/rerun": {
+        "stars": 1101,
+        "seen": "2026-11-18"
+      },
+      "fchavelli/tsseg": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "equationalapplications/expo-llm-wiki": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "yzdz666/QQbot": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "SouthBridgeAI/offmute-v2": {
+        "stars": 33,
+        "seen": "2026-11-18"
+      },
+      "moq-dev/moq": {
+        "stars": 1617,
+        "seen": "2026-11-18"
+      },
+      "openfoodfacts/openfoodfacts-upptime": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "EvotecIT/Mailozaurr": {
+        "stars": 236,
+        "seen": "2026-11-18"
+      },
+      "wlsdks/ontology-atlas": {
+        "stars": 170,
+        "seen": "2026-11-18"
+      },
+      "2rami/kasaterm": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/developEarn": {
+        "stars": 50,
+        "seen": "2026-11-18"
+      },
+      "cloudoperators/heureka": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "MoYan1638/love-companion": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "vyuh-labs/dxkit": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "PierreLeGuen/nearvault": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "activepieces/activepieces": {
+        "stars": 25601,
+        "seen": "2026-11-18"
+      },
+      "metrist38/fefw-recomp": {
+        "stars": 210,
+        "seen": "2026-11-18"
+      },
+      "piecioshka/7balls": {
+        "stars": 26,
+        "seen": "2026-11-18"
+      },
+      "ilovepixelart/ts-patch-mongoose": {
+        "stars": 23,
+        "seen": "2026-11-18"
+      },
+      "Apps2Samsung/tizen-community-packages": {
+        "stars": 383,
+        "seen": "2026-11-18"
+      },
+      "festus14/randori-circle": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "Kronuz/Xapiand": {
+        "stars": 363,
+        "seen": "2026-11-18"
+      },
+      "electricsheephq/lcm-x": {
+        "stars": 164,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/WebCheck-OSINT": {
+        "stars": 352,
+        "seen": "2026-11-18"
+      },
+      "IstiN/flutter_agent_harness": {
+        "stars": 90,
+        "seen": "2026-11-18"
+      },
+      "plosson/siteio": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "andreypfau/mcrs": {
+        "stars": 62,
+        "seen": "2026-11-18"
+      },
+      "sdcb/SimdPaddleOCR": {
+        "stars": 550,
+        "seen": "2026-11-18"
+      },
+      "JonathanGin52/JonathanGin52": {
+        "stars": 256,
+        "seen": "2026-11-18"
+      },
+      "freenet/freenet-core": {
+        "stars": 3129,
+        "seen": "2026-11-18"
+      },
+      "minh27ten/Mo_phong_mach_dien": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "PenguinBMDevs/lumino-rs": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "jaxernst/lasso-rpc": {
+        "stars": 36,
+        "seen": "2026-11-18"
+      },
+      "MoyerZhang-Claude/video-downloader": {
+        "stars": 26,
+        "seen": "2026-11-18"
+      },
+      "TigreGotico/tugaphone": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "fabriziosalmi/certmate": {
+        "stars": 1495,
+        "seen": "2026-11-18"
+      },
+      "denisneuf/python-amazon-ad-api": {
+        "stars": 205,
+        "seen": "2026-11-18"
+      },
+      "opf/openproject": {
+        "stars": 17505,
+        "seen": "2026-11-18"
+      },
+      "sgl-project/sglang": {
+        "stars": 39027,
+        "seen": "2026-11-18"
+      },
+      "pytorch/pytorch": {
+        "stars": 105682,
+        "seen": "2026-11-18"
+      },
+      "ErBharatMalhotra/open-source-ai-radar": {
+        "stars": 20,
+        "seen": "2026-11-18"
+      },
+      "tangency-labs/solidcraft": {
+        "stars": 17043,
+        "seen": "2026-11-18"
+      },
+      "xiaoyaodev/musechrome": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "Edge0-AI/Edge0": {
+        "stars": 12012,
+        "seen": "2026-11-18"
+      },
+      "spcaeo/skald": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/Git-Animals": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "Jiahong-Que-9527/SoloLakehouse": {
+        "stars": 63,
+        "seen": "2026-11-18"
+      },
+      "0xRadikal/Free-Telegram-Proxy": {
+        "stars": 255,
+        "seen": "2026-11-18"
+      },
+      "garrytan/gbrain": {
+        "stars": 33260,
+        "seen": "2026-11-18"
+      },
+      "johannhartmann/asus-proart-p16-rtx-spark-linux": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "celestiamobile/celestia-addon-validator": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "thecont1/traffic-monitor-lizard": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "iblai/base": {
+        "stars": 234,
+        "seen": "2026-11-18"
+      },
+      "jhaizhou-ops/S2Arm": {
+        "stars": 3566,
+        "seen": "2026-11-18"
+      },
+      "koole/intercom-alternatives": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "irsdl/BurpSuiteSharpenerEx": {
+        "stars": 89,
+        "seen": "2026-11-18"
+      },
+      "ethereum-optimism/optimism": {
+        "stars": 6496,
+        "seen": "2026-11-18"
+      },
+      "wifi75/Aurora": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "hehee9/CSAT-benchmark": {
+        "stars": 146,
+        "seen": "2026-11-18"
+      },
+      "juancarlospaco/awesome-streaming-tools": {
+        "stars": 399,
+        "seen": "2026-11-18"
+      },
+      "ersinkoc/phonebox": {
+        "stars": 2985,
+        "seen": "2026-11-18"
+      },
+      "proxmint/free-proxy-list": {
+        "stars": 30,
+        "seen": "2026-11-18"
+      },
+      "eea/eea.agent.skills": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "plhery/peek-delivery-tracker": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "arhen/agents": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "gxywy/pixiv-daily": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "authzed/spicedb": {
+        "stars": 7227,
+        "seen": "2026-11-18"
+      },
+      "monotykamary/pi-neuralwatt-provider": {
+        "stars": 19,
+        "seen": "2026-11-18"
+      },
+      "LuckyYam/LuckyYam": {
+        "stars": 20,
+        "seen": "2026-11-18"
+      },
+      "livediagram-app/livediagram.app": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "1276486/ZERO-X-Bypass": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "alkem-io/server": {
+        "stars": 29,
+        "seen": "2026-11-18"
+      },
+      "spoorendonk/cptp": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "dream-num/univer": {
+        "stars": 29789,
+        "seen": "2026-11-18"
+      },
+      "Sacrappy/HeyListen": {
+        "stars": 173,
+        "seen": "2026-11-18"
+      },
+      "evilchinesefood/PKMN-World": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "psalm/phar": {
+        "stars": 26,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/live-poll": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "dandyraka/JKT48IDNHistory": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/HornBill": {
+        "stars": 49,
+        "seen": "2026-11-18"
+      },
+      "Lceoliu/AIsaac": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "mighty840/orca": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "jasonulbright/app-packager": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "magic5644/Graph-It-Live": {
+        "stars": 63,
+        "seen": "2026-11-18"
+      },
+      "openai/codex": {
+        "stars": 135764,
+        "seen": "2026-11-18"
+      },
+      "DEAL-US/Silence": {
+        "stars": 24,
+        "seen": "2026-11-18"
+      },
+      "Maskkost93/kizyak-vpn-4.0": {
+        "stars": 60,
+        "seen": "2026-11-18"
+      },
+      "Dynokostya/just-works": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "reportportal/kubernetes": {
+        "stars": 85,
+        "seen": "2026-11-18"
+      },
+      "Ace2025001/antigravity-desktop-zhcn": {
+        "stars": 24,
+        "seen": "2026-11-18"
+      },
+      "Frostyicici/19280_auto_01": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "i18next/i18next-http-middleware": {
+        "stars": 170,
+        "seen": "2026-11-18"
+      },
+      "Amsterdam/mapserver": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "Tencent/WeKnora": {
+        "stars": 37734,
+        "seen": "2026-11-18"
+      },
+      "upstash/context7": {
+        "stars": 65056,
+        "seen": "2026-11-18"
+      },
+      "DawnyFY/lkm-susfs-manager": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "pufflyai/prompt-studio": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "coccvo/arts": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "OpenRouterLabs/ori-releases": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "elarisbrowser/elaris": {
+        "stars": 204,
+        "seen": "2026-11-18"
+      },
+      "mainza-ai/milimovideo": {
+        "stars": 90,
+        "seen": "2026-11-18"
+      },
+      "arul28/ADE": {
+        "stars": 145,
+        "seen": "2026-11-18"
+      },
+      "pocket-nexus/pocket-shell": {
+        "stars": 83,
+        "seen": "2026-11-18"
+      },
+      "spydisec/spydithreatintel": {
+        "stars": 59,
+        "seen": "2026-11-18"
+      },
+      "Sendspin/sendspin-cpp": {
+        "stars": 33,
+        "seen": "2026-11-18"
+      },
+      "osac-project/enhancement-proposals": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "IoSonoPiero/eyecansee": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "chrissotraidis/padmint": {
+        "stars": 75,
+        "seen": "2026-11-18"
+      },
+      "cheng8214/LenoLang": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "raviprakashji/Streamer-launcher-release": {
+        "stars": 41,
+        "seen": "2026-11-18"
+      },
+      "HDVinnie/TrackerHub": {
+        "stars": 190,
+        "seen": "2026-11-18"
+      },
+      "CocoaPods/Specs": {
+        "stars": 6820,
+        "seen": "2026-11-18"
+      },
+      "duppjuzo/ExtBridge": {
+        "stars": 64,
+        "seen": "2026-11-18"
+      },
+      "KDE/craft-blueprints-kde": {
+        "stars": 23,
+        "seen": "2026-11-18"
+      },
+      "ismayilkarimli/MergeAtlas": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "unslothai/unsloth": {
+        "stars": 79727,
+        "seen": "2026-11-18"
+      },
+      "segmentio/action-destinations": {
+        "stars": 83,
+        "seen": "2026-11-18"
+      },
+      "schumijo/iptv": {
+        "stars": 106,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/Failed-Unlock-auto-selfie-App": {
+        "stars": 37,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/Cashless-Pool-Table-System-Arduino-M-Pesa": {
+        "stars": 52,
+        "seen": "2026-11-18"
+      },
+      "cook369/proxy-collect": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "dengmeiluan/esquerystudio": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "beasaltfish/bot-reborn": {
+        "stars": 62,
+        "seen": "2026-11-18"
+      },
+      "OnionBrowser/OnionBrowser": {
+        "stars": 2716,
+        "seen": "2026-11-18"
+      },
+      "microbiome/OMA": {
+        "stars": 114,
+        "seen": "2026-11-18"
+      },
+      "rabee-elkholy/android-agent-harness": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "kajisho5/ffmpeg-skill": {
+        "stars": 7916,
+        "seen": "2026-11-18"
+      },
+      "mwakidenis/social": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "nuuuwan/lk_irrigation": {
+        "stars": 24,
+        "seen": "2026-11-18"
+      },
+      "tomperi/brisk": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "DevinoSolutions/stealth-chrome-devtools-mcp": {
+        "stars": 34,
+        "seen": "2026-11-18"
+      },
+      "2AMLogic/loom": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "mozilla-firefox/firefox": {
+        "stars": 13872,
+        "seen": "2026-11-18"
+      },
+      "ConfigServerApps/service-blocklists": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "udzura/wardite": {
+        "stars": 44,
+        "seen": "2026-11-18"
+      },
+      "iiimabbie/ST-PromptFolding": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "mehmetdemir-tr/PatiOS": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "Tavotto/Tavotto": {
+        "stars": 723,
+        "seen": "2026-11-18"
+      },
+      "kevingeary/gearyco-agentic-toolkit-for-etch": {
+        "stars": 67,
+        "seen": "2026-11-18"
+      },
+      "kumagallium/Graphium": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "descope/.github": {
+        "stars": 42,
+        "seen": "2026-11-18"
+      },
+      "Qingxuan365/oneAI": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "redis/node-redis": {
+        "stars": 17596,
+        "seen": "2026-11-18"
+      },
+      "cubepals/cubepals": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "nocobase/nocobase": {
+        "stars": 24962,
+        "seen": "2026-11-18"
+      },
+      "carbon-design-system/carbon": {
+        "stars": 9629,
+        "seen": "2026-11-18"
+      },
+      "gladia-research-group/perseus": {
+        "stars": 27,
+        "seen": "2026-11-18"
+      },
+      "YashwanthKamireddi/Skykeep": {
+        "stars": 547,
+        "seen": "2026-11-18"
+      },
+      "ZhuLinsen/daily_stock_analysis": {
+        "stars": 73266,
+        "seen": "2026-11-18"
+      },
+      "PavelLizunov/VPNRouter": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "fendouai/ViralForge": {
+        "stars": 299,
+        "seen": "2026-11-18"
+      },
+      "Joakimpalm-Zen/xyntetik-runner": {
+        "stars": 29,
+        "seen": "2026-11-18"
+      },
+      "Charbel12323/Hunter": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "t2linux/linux-t2-patches": {
+        "stars": 108,
+        "seen": "2026-11-18"
+      },
+      "rallegretti/PlanCraft": {
+        "stars": 42,
+        "seen": "2026-11-18"
+      },
+      "DexForce/EmbodiChain": {
+        "stars": 243,
+        "seen": "2026-11-18"
+      },
+      "joeygibson/pi-extensions": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "ROCm/rocm-cli": {
+        "stars": 53,
+        "seen": "2026-11-18"
+      },
+      "appium/asyncbox": {
+        "stars": 27,
+        "seen": "2026-11-18"
+      },
+      "drmlive/sliv-live-events": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "TheIdeaPlace/AIChat": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "everettjf/scriptwidget": {
+        "stars": 299,
+        "seen": "2026-11-18"
+      },
+      "jinahya/bit-io": {
+        "stars": 37,
+        "seen": "2026-11-18"
+      },
+      "hello-world-1989/cn-news": {
+        "stars": 668,
+        "seen": "2026-11-18"
+      },
+      "Pilvipalvelut/web-kehityksessa": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "zortos293/Lichii": {
+        "stars": 9690,
+        "seen": "2026-11-18"
+      },
+      "opentimestamps/restamp": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "LunarKittyy/Telescope": {
+        "stars": 89,
+        "seen": "2026-11-18"
+      },
+      "MrxSiN/YouTubeHideAds": {
+        "stars": 21,
+        "seen": "2026-11-18"
+      },
+      "akan-team/akanjs": {
+        "stars": 360,
+        "seen": "2026-11-18"
+      },
+      "TheoXiong7/Summer-2027-SWE-Internships": {
+        "stars": 124,
+        "seen": "2026-11-18"
+      },
+      "jaredgei/wow-forever-android": {
+        "stars": 291,
+        "seen": "2026-11-18"
+      },
+      "SkyLabsAI/brick-libcpp": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "firsttris/haben": {
+        "stars": 708,
+        "seen": "2026-11-18"
+      },
+      "mariaandrezacs/mariaandrezacs": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "desplega-ai/agent-swarm": {
+        "stars": 1085,
+        "seen": "2026-11-18"
+      },
+      "phisher98/TVVVV": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "cbookmarks/bookmarks": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "NoProblUm/dsh-codexlike-projectless": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "jafarm83/ConfigV2Ray": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "jozeta/threat-tiger": {
+        "stars": 73,
+        "seen": "2026-11-18"
+      },
+      "docker-hardened-images/catalog": {
+        "stars": 265,
+        "seen": "2026-11-18"
+      },
+      "ehmicky/ehmicky": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "floci-io/floci": {
+        "stars": 31907,
+        "seen": "2026-11-18"
+      },
+      "unhappychoice/gittype": {
+        "stars": 1666,
+        "seen": "2026-11-18"
+      },
+      "Alexey-Lukin/silken_net": {
+        "stars": 23,
+        "seen": "2026-11-18"
+      },
+      "oliver-zehentleitner/maity": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "Ayuilos/Miffan": {
+        "stars": 315,
+        "seen": "2026-11-18"
+      },
+      "acrylblends/acrylblends.github.io": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "zernio-dev/zernio-python": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "bbtsoftware/docker-mssql-backup": {
+        "stars": 39,
+        "seen": "2026-11-18"
+      },
+      "appwrite/appwrite": {
+        "stars": 58133,
+        "seen": "2026-11-18"
+      },
+      "frappe/press": {
+        "stars": 584,
+        "seen": "2026-11-18"
+      },
+      "HarunRRayhan/content-machine": {
+        "stars": 66,
+        "seen": "2026-11-18"
+      },
+      "jonathanong/no-mistakes": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "stokaro/ptah": {
+        "stars": 21,
+        "seen": "2026-11-18"
+      },
+      "pocket-nexus/pocketjs": {
+        "stars": 1888,
+        "seen": "2026-11-18"
+      },
+      "YILING0013/novelai_local_web": {
+        "stars": 71,
+        "seen": "2026-11-18"
+      },
+      "frostdev-ops/kiln": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "wlunlocker/vpn-configs": {
+        "stars": 34,
+        "seen": "2026-11-18"
+      },
+      "DwgSearch/DwgSearch": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "open-mercato/open-mercato": {
+        "stars": 1945,
+        "seen": "2026-11-18"
+      },
+      "pnpm/pnpm": {
+        "stars": 37122,
+        "seen": "2026-11-18"
+      },
+      "SinhyeokKang/doan-design": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "agnogad/agno": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "ghorwin/MasterSim": {
+        "stars": 27,
+        "seen": "2026-11-18"
+      },
+      "Datura-ai/lium-io": {
+        "stars": 43,
+        "seen": "2026-11-18"
+      },
+      "lobehub/lobehub": {
+        "stars": 85764,
+        "seen": "2026-11-18"
+      },
+      "BerriAI/litellm": {
+        "stars": 63479,
+        "seen": "2026-11-18"
+      },
+      "tryVital/docs": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "santiremedi/clippy": {
+        "stars": 48,
+        "seen": "2026-11-18"
+      },
+      "Brajesh31/GIFT_U": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "twentyhq/twenty": {
+        "stars": 61130,
+        "seen": "2026-11-18"
+      },
+      "KtKID/x-dev-pipeline": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "open-meteo/geocoding-api": {
+        "stars": 52,
+        "seen": "2026-11-18"
+      },
+      "expo/expo": {
+        "stars": 53643,
+        "seen": "2026-11-18"
+      },
+      "hathach/tinyusb": {
+        "stars": 7278,
+        "seen": "2026-11-18"
+      },
+      "danielraffel/tartci": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "kixel-ai/rind": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "alewwi/HUD": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "naurissteins/Matuwall": {
+        "stars": 54,
+        "seen": "2026-11-18"
+      },
+      "filamentphp/filament": {
+        "stars": 32528,
+        "seen": "2026-11-18"
+      },
+      "netcupfree/netcup.free": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "chrismsmr-celcom/cerbere-AG": {
+        "stars": 21,
+        "seen": "2026-11-18"
+      },
+      "DavidBebow/temperaturas-mar-espana": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Stevehim2007/qqbot-studio": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "dthinkr/openrouter-uptime": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "PhenoX-AI-Alliance/TOAI-elegant-lang": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "kody-w/rappterverse": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "fccoelho/tuneview": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "indmdevbots/Telegram-shop": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "cmahmud/proxies": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "nzea243/nzpn_2.0_test": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "47tsai/chi-source": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "erkinemreta1/zerre-tts": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Origamihase/wien-oepnv": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "DeepakGupta2006/DeepakGupta2006": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "AbdelmonemAwad/os-trafficpriority": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "dk-forge/ai-layoff-tracker": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "NanaKk0/DICE": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "AbdelmonemAwad/os-blocklists": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "magpiesacorvid/AnimalImageGenerator": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "wuruogithub/SPARX-O": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "mosapase/v2ray-sub": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "netcupcoupons/netcup.coupons": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "eeadata/reportnet-api-python": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "namistain14/trade-lab": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "MusadiqUrRahman/whaagent": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Ashraf8ila/tesla-comed": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "JCZR2000/ComercioPrecioAPI": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "LIM-AIT/cgv-api-watcher": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "frocket-exe/youtube-views-tracker": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "DevSecOpsLab-CSIE-NPU/2026-Computer-Architecture": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "Prabhath-de/AWS_Honeypot": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "aliu2298/edge-machine": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Ph1so/phlux2.0": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Haiderr-12/job-watcher": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "nikhilsahni10/wgai-entry-form-tracker": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "paul-gross/blizzard": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "CarstVaartjes/vonk-forge": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "TNet-Tech/chacc_authentication": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "vectorize-io/hindsight": {
+        "stars": 61752,
+        "seen": "2026-11-18"
+      },
+      "entropy-data/entropy-data-cli": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "VGCLUB/ScreenLens": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "wufei-png/AI-CodeReview-Agent": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "EV4g/Radio-Flux-Solver": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "markaraujo/toddy-os": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "AOMINHTAM/aws-data-pipeline": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "softwarecorporation/space": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "hulong1989/freedeckCY": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "archivey-dev/archivey": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "EvilFreelancer/docker-gigaam-server": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "TelaMechanica/ascent-control": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "FlorentLatifi/Gjurm-": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "eriksalsborn/collinear": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "chiraaglohar/Leetcode": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "videlov/claude-knowledge-template": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "grandchallenge/MATH-PROGRAMME": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "nuuuwan/lk_dmc": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "OSSystems/Zoomies": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "MarkYang44/GTD": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "benbaichmankass/JTA-Trader": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "TPautras/Next-Gen-AI": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Skunokil/vosmenog": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "spec-kitty/spec-kitty-open-packs": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "holtwood/repos-db": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "lza6/CF-Bypass-Research": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "QilongZhao-86/DMCT_InfraredVision": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "multiscale/muscle3-dashboard": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "NeuroDMRI/SlicerDSpace": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "jasonleetucker-code/riskittogetthebrisket": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "abhi0395/nmfqsofit": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "vandeplaslab/imzy": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "loyal37/EFMI-MCP": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "maciekd/Keep": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "iadr-dev/greenlight": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "occultera/occultera": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Will-Suvera/Primary-Care-Recall": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Sihnbaobao/astrbot_plugin_persona_presence": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "e2its/myrmion-AI-factory": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "honeyground-org/local-brain": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "trustless-ai/tawg-daily-contribution": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "littlecedar/sparkrun-recipe-registry": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "MaximeWewer/HeimdallBlocklists": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "aderoa/wnba-milestones": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "Alexander-Domanov/Alexander-Domanov": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "itsDNNS/docsight-modules": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "shru14/ai-pulse": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "aaazha686-oss/ktown4u-fansign-tracker": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "mythes/agents-farm": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "lsx9988/my-tvbox-cfg": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "scitex-ai/scitex-clew": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "jposluns/guardrails": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "deshihito/BOT": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "terraops-org/ogc.benchmark": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "shikanime-labs/skills": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "ShioUmiusi/WT-MAP-ANALYZE": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "juliengrimmelprez/fantasy-bot": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "MEFORORG/MessageFoundry": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "belkinboris/Compass": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "augustogjmm/LibroOrdenes-Rangos": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "LZSMIAO/LZSMIAO": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "lfourneen/nixos-lf": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "Agrim-Intelligence/sigma": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "jaredbellov/value-signal-system": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "prompticeu/promptic-python-sdk": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "fccoelho/dengue-Powerlaw": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "idleCyrex/idleCyrex": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Amasun93/ChatMaker": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "datalayer/personal-agent-protocol": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "juergen2025sys/NETSHIELD": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "10Dream/sub-mod": {
+        "stars": 23,
+        "seen": "2026-11-18"
+      },
+      "duorua/narutomobile": {
+        "stars": 524,
+        "seen": "2026-11-18"
+      },
+      "SemiAnalysisAI/InferenceX": {
+        "stars": 2059,
+        "seen": "2026-11-18"
+      },
+      "zernio-dev/zernio-go": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "muxueqingze/xuxiang-thinkflow": {
+        "stars": 29,
+        "seen": "2026-11-18"
+      },
+      "NousResearch/hermes-agent": {
+        "stars": 264396,
+        "seen": "2026-11-18"
+      },
+      "rs-jensen/pydub2": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "OpenHands/software-agent-sdk": {
+        "stars": 1408,
+        "seen": "2026-11-18"
+      },
+      "AbdelmonemAwad/os-portguard": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "machinelearningZH/simply-simplify-language": {
+        "stars": 51,
+        "seen": "2026-11-18"
+      },
+      "Brajesh31/Glaucoma-Detection-NSGA": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "CAPHTECH/kestrom": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "jobtrek/DuskTillDawn": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "pawafa666-eng/plot-workbench": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "ThomasMichon/copilot-extensions": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "JorisVermeeschLab/MetDecode": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "remixed123/modmatrix-desktop": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "suonian/vidknot": {
+        "stars": 33,
+        "seen": "2026-11-18"
+      },
+      "TecnaGamer/BeamNG.Earth": {
+        "stars": 2333,
+        "seen": "2026-11-18"
+      },
+      "muhammadrizalharis/UNISMUH-ComputeHub": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "oaustegard/experiments": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "pyrite-wiki/pyrite": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "kinghenesey/NEKOVA": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "YOUNES-2-wq/cachymonitor": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "tudelft/paparazzi_log_parsing": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "OCA/l10n-brazil": {
+        "stars": 376,
+        "seen": "2026-11-18"
+      },
+      "Delta-Kronecker/Tor-Bridges-Collector": {
+        "stars": 158,
+        "seen": "2026-11-18"
+      },
+      "pipeshub-ai/pipeshub-ai": {
+        "stars": 4131,
+        "seen": "2026-11-18"
+      },
+      "ryuhaneul/dt-agent": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "vipmc838/cf_best_ip": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "seifreed/r2morph": {
+        "stars": 53,
+        "seen": "2026-11-18"
+      },
+      "xismail606/Hash-Cracker": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Leshan3D/GTA-6-Afterburner": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "kevinferg/graph-field-prediction": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "teamleaderleo/glaeda": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "omriariav/memory-daemon": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "vaibhav-24hr/vaibhav-24hr": {
+        "stars": 19,
+        "seen": "2026-11-18"
+      },
+      "yurug/socrask": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "EoRImaging/eor_limits": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "ming053l/FlashReFocus": {
+        "stars": 19,
+        "seen": "2026-11-18"
+      },
+      "openbraininstitute/obi-one": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "HiroshiKERA/calt": {
+        "stars": 24,
+        "seen": "2026-11-18"
+      },
+      "JTFNews/jtfnews": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "andrew-codechimp/HA-BoardOil": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "watchakorn-18k/watchakorn-18k": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "spirodelazz/ide-daily-checkin": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "mrmadison14/tcg-restock-watcher": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Natalyyyy/rssradar": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "blackphoenix42/blackphoenix42": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "KSaifStack/SearchTern-Listings": {
+        "stars": 14,
+        "seen": "2026-11-18"
+      },
+      "sjmyuan/gg-daily-workbench": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "zhengjiahong-ai/LLM-KV-Cache-Optimization": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "volcengine/OpenViking": {
+        "stars": 42416,
+        "seen": "2026-11-18"
+      },
+      "SpeedeMiner/RU-Speede-VPN": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "Brajesh31/digital-image-processing-home-exam": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "cslht11/awesome-computed-tomography": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "Dipanshu-birla1/leetcode-solutions": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Amey-Thakur/Amey-Thakur": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "abuzucom/infiniteprep": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "dwgx/DWGX": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "samrusani/AliceMemory": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "specter119/scoop-dsms": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "forrtproject/reprocrowd-app": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "OpenModelica/OMPython": {
+        "stars": 156,
+        "seen": "2026-11-18"
+      },
+      "Connexity-AI/connexity": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "jinzc/entertainment-ranking": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "zacharias80/Polymarket-Prediction-Bot": {
+        "stars": 93,
+        "seen": "2026-11-18"
+      },
+      "aur3l14no/distrun": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "lwzhenglittle/torchpeak": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "langgenius/dify": {
+        "stars": 161417,
+        "seen": "2026-11-18"
+      },
+      "netresearch/jira-to-openproject": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "xingpingcn/enhanced-FaaS-in-China": {
+        "stars": 3164,
+        "seen": "2026-11-18"
+      },
+      "Hochfrequenz/ebd_toolchain": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "matylerb/The-IT-Stars-KDAI-Project": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "kgdunn/process-improve": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "OpenAPC/openapc-de": {
+        "stars": 136,
+        "seen": "2026-11-18"
+      },
+      "Azazeldx/bot_anime_news_discord": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "w00tzenheimer/feed": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "SawmanTim/FCWXTH-Poster": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Vashiel/repository.adulthideout": {
+        "stars": 374,
+        "seen": "2026-11-18"
+      },
+      "TheIdeaPlace/Image-Description-Toolkit": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "pydantic/pydantic-ai": {
+        "stars": 21272,
+        "seen": "2026-11-18"
+      },
+      "epam/BrainTF": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "qwikly3/NabuStation": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "jschm42/lumigen": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Reithan/negative_rejection_steering": {
+        "stars": 17,
+        "seen": "2026-11-18"
+      },
+      "SongyuQi-Francisco/Watch2Whoop": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "joshbegley/nyt-latest": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "ErhickDiaz/COPIA-DASHBOARD_STREAMLIT_LOGISTIC": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Brajesh31/Movie-Recommendation": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "CostaLab/PILOT": {
+        "stars": 26,
+        "seen": "2026-11-18"
+      },
+      "can4hou6joeng4/boss-agent-cli": {
+        "stars": 2234,
+        "seen": "2026-11-18"
+      },
+      "lanshi17/AutomatedPubMed": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "vzhd1701/gridplayer": {
+        "stars": 2171,
+        "seen": "2026-11-18"
+      },
+      "ChiakoRh/WSK": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "I2WM/FujinSplat": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "Artoxem/workspace-operator": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "CrispStrobe/CrispEmbed": {
+        "stars": 80,
+        "seen": "2026-11-18"
+      },
+      "aboodmohd/-AppInstall": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "reqsgjh/free-coding-agent-models": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "rollroyces/deepcatch": {
+        "stars": 88,
+        "seen": "2026-11-18"
+      },
+      "littleeeeebit/wiki-agent": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "123456789556/myonl": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "david2069/franklinwh-direct-connect-bridge": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Nitjsefnie/ai-researcher": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "hugolld/theta-agent": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "ingadhoc/product": {
+        "stars": 59,
+        "seen": "2026-11-18"
+      },
+      "nace-ai/intern": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "CarlosP1806/urban-learning-cdmx": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "mijiaco/moneyball-analyst-bot": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Matlan1/localm": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "databricks/databricks-agent-skills": {
+        "stars": 406,
+        "seen": "2026-11-18"
+      },
+      "Mind2Act/Mind2Act_World": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "marin-community/marin": {
+        "stars": 4128,
+        "seen": "2026-11-18"
+      },
+      "Anzo52/osintbeast": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "JuanenRac/TOOLS-GITHUB-ACTIONS-MONITOR": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Hyp3rY/paper2zh": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Brajesh31/Smart-Room-Cleaner-AI": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "HSLUDEM/District_Energy_Model": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "RachelForster/Shinsekai": {
+        "stars": 713,
+        "seen": "2026-11-18"
+      },
+      "tenstorrent/tt-metal": {
+        "stars": 131,
+        "seen": "2026-11-18"
+      },
+      "PhiLia011/astrbot_plugin_mihoyo_signin": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "sogadaiki/devpurge": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "0xMarcio/pocindex": {
+        "stars": 1573,
+        "seen": "2026-11-18"
+      },
+      "xulang-org/xu": {
+        "stars": 103,
+        "seen": "2026-11-18"
+      },
+      "stormmage32-oss/OnScreenOCR-for-Chinese": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "pantherale0/pynintendoparental": {
+        "stars": 16,
+        "seen": "2026-11-18"
+      },
+      "SoupyzInc/SoupyzInc": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "Ushapithani/LEETCODE_DAILY": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "R0Xofficial/ArgoRobot": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "b7n0de/proofbundle": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "adanos-software/free-ticker-database": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "MasayukiTa/m365-copilot-companion-mcp": {
+        "stars": 11,
+        "seen": "2026-11-18"
+      },
+      "hugoakerlund/ohtu-miniprojekti": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "vanubala/SE_Team3_2026": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "knutwurst/ps5-ultrapack": {
+        "stars": 82,
+        "seen": "2026-11-18"
+      },
+      "kirodotdev/KiroCrew": {
+        "stars": 4982,
+        "seen": "2026-11-18"
+      },
+      "JamesLi-dev/JamesLi-dev": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "tabulai/mlx-learn": {
+        "stars": 49,
+        "seen": "2026-11-18"
+      },
+      "tmatens/compose-lint": {
+        "stars": 65,
+        "seen": "2026-11-18"
+      },
+      "tigerogijzooav/Hyperliquid-Trade-Bot": {
+        "stars": 290,
+        "seen": "2026-11-18"
+      },
+      "KunalAnand7222/leetcode-sync": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "UiPath/skills": {
+        "stars": 184,
+        "seen": "2026-11-18"
+      },
+      "hosseinasgari898989-dev/rubika-agent": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Abolfazlrwm/awesome-scripts": {
+        "stars": 81,
+        "seen": "2026-11-18"
+      },
+      "ithtelab/workbuddy-manager": {
+        "stars": 2871,
+        "seen": "2026-11-18"
+      },
+      "pretextQ/MewCode": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "aktalascloud/polaris-gfx803-rx580-zluda-rocm-hip-comfyui-windows": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "vitofico/spunto": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "lytexdev/pi-guard": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "lennartb51/muc-wohnungsalarm": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "aktalascloud/koboldcpp-media-pipeline": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "akoffice933-maker/pto-agent": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "NVIDIA/auto-ontology": {
+        "stars": 13740,
+        "seen": "2026-11-18"
+      },
+      "a-schaefers/claudes-workbench": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "open-gamma-ray-astro/gamma-astro-data-formats": {
+        "stars": 33,
+        "seen": "2026-11-18"
+      },
+      "DavidAlpert11/SignalViewer": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "BoomberAsp/QQBotAgent": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "mojtaba-arvin/django-api-versioning": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "vn-progr/gpv-voe-vinnytsia": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "r3dz4r/datapulse-my": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "dandi/dandisets": {
+        "stars": 15,
+        "seen": "2026-11-18"
+      },
+      "redai-studio/Relax": {
+        "stars": 677,
+        "seen": "2026-11-18"
+      },
+      "munich-quantum-toolkit/bench": {
+        "stars": 134,
+        "seen": "2026-11-18"
+      },
+      "canghaixiao369/GitHub520": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "XY-code1/exporbit": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "AI-Trust-Services/ai-trust-platform": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "alireza786786/Free-V2ray-Configs": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "SecShiv/h1androidapp_scope": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "lucialuka/OpenAssembler": {
+        "stars": 221,
+        "seen": "2026-11-18"
+      },
+      "knacklabs/symphony-forge": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "kort0881/telegram-proxy-collector": {
+        "stars": 1140,
+        "seen": "2026-11-18"
+      },
+      "gardener/cc-utils": {
+        "stars": 30,
+        "seen": "2026-11-18"
+      },
+      "overpressure/phoenix": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "useblocks/sphinx-needs": {
+        "stars": 327,
+        "seen": "2026-11-18"
+      },
+      "hahhjaaap/Universal-Desktop-Bridge": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "XTM-One-Platform/xtm-one": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "danielacos/Papers-src": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "KratosDataGod/KratosForge": {
+        "stars": 47,
+        "seen": "2026-11-18"
+      },
+      "QBoard-public/ttnumpy": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "Brajesh31/attendance-system-app": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "lingyicute/chromium-build": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "tsupplis/cpm86-kernel": {
+        "stars": 20,
+        "seen": "2026-11-18"
+      },
+      "H-ym0422/acgnx-watcher": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "python/cpython": {
+        "stars": 78384,
+        "seen": "2026-11-18"
+      },
+      "fakkk534/PHONE-TRACKINGV1": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "MelisaPeteRs2006/Silent-Crypto-Miner": {
+        "stars": 1017,
+        "seen": "2026-11-18"
+      },
+      "MhdiTaheri/V2rayCollector_Py": {
+        "stars": 228,
+        "seen": "2026-11-18"
+      },
+      "hany202507/finance-ai-skills": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "drozdzszymon/lokalterm-ha": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "goldener-data/goldener": {
+        "stars": 19,
+        "seen": "2026-11-18"
+      },
+      "flamehaven01/AI-SLOP-Detector": {
+        "stars": 120,
+        "seen": "2026-11-18"
+      },
+      "Epiphany-Lucky/cimc-simulator": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "CarolinaMMartin/anonimizador_uso_personal": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "FLumine87/DaChuang-FLCFZ": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "nx1282530551/node": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "vllm-project/vllm": {
+        "stars": 97157,
+        "seen": "2026-11-18"
+      },
+      "daksh0990/Predictive-Project": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "sblibs/pySwitchbot": {
+        "stars": 180,
+        "seen": "2026-11-18"
+      },
+      "UMEP-dev/SUEWS": {
+        "stars": 34,
+        "seen": "2026-11-18"
+      },
+      "erkanrzgc/steganography": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Videobarista/allen-heath-idr-ha": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "kulibinai/cadmageddon": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "guozhihuan01-hash/embodied-nav-papers": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "NovaAixYoussef/yolo-craft": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "topoteretes/cognee": {
+        "stars": 33386,
+        "seen": "2026-11-18"
+      },
+      "sandbox-quantum/switch": {
+        "stars": 4546,
+        "seen": "2026-11-18"
+      },
+      "Nimbleway/agent-skills": {
+        "stars": 75,
+        "seen": "2026-11-18"
+      },
+      "hali0515/VoxWeave": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Msr233/VTC": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "TuRaing/TURION_AI_Trader": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "alr-rashidi/Awesome-Persian-Fonts": {
+        "stars": 42,
+        "seen": "2026-11-18"
+      },
+      "connorburgess/traceweave-spec": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "pytorch/executorch": {
+        "stars": 5180,
+        "seen": "2026-11-18"
+      },
+      "acidkill/surreal-memory": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "CyberMind-FR/secubox-deb": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "BasedHardware/omi": {
+        "stars": 13992,
+        "seen": "2026-11-18"
+      },
+      "chevauxenbois/svikruti": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "pom11/hscc": {
+        "stars": 7,
+        "seen": "2026-11-18"
+      },
+      "yogevshalmon/gpap": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "Sarthzk/internship-tracker": {
+        "stars": 154,
+        "seen": "2026-11-18"
+      },
+      "psewar/skirnir": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "HumanoidsBonn/SG-DOR": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Loukious/TikTokStreamKeyGenerator": {
+        "stars": 281,
+        "seen": "2026-11-18"
+      },
+      "PrefectHQ/fastmcp": {
+        "stars": 28646,
+        "seen": "2026-11-18"
+      },
+      "romudille-bit/agentpay": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "khodekia/Saccade": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "LeeXieXie/scoop-personal": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "IznoCorp/torrent-mate": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "2Mundos/argus": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "NuxsGit/HookyMod": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "LewisIsWorking/telegram-pbp-reminder": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Eije1/Computational-ECG-Signal-Analysis-and-Arrhythmia-Classification-Using-1D-CNNs-Prototype": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "OCA/payroll": {
+        "stars": 125,
+        "seen": "2026-11-18"
+      },
+      "HBLLM/hbllm-core": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "mraad/duckdb-jev-spatial": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "wanshuiyin/Auto-claude-code-research-in-sleep": {
+        "stars": 19425,
+        "seen": "2026-11-18"
+      },
+      "channy/korea-devculture": {
+        "stars": 449,
+        "seen": "2026-11-18"
+      },
+      "sandskatherinenymph/Electrum-Fake-Balance": {
+        "stars": 104,
+        "seen": "2026-11-18"
+      },
+      "julie-elkins/llm-eval-validity": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "AI-Riksarkivet/rask": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "connorwhite-online/loadpath": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "tiagofelicia/dados-energia": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "sniner/mailvault": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "bevennyamande/zim_leaderboard": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "TheCrabbypatty/finch-robot-movement": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "IrTs3/Complex_Minesweeper": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "eclipse-score/reference_integration": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "kolega-ai/kolega-code": {
+        "stars": 22,
+        "seen": "2026-11-18"
+      },
+      "lxcxjxhx/HOS-ARES": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "sadeghr64/persian-docx": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Jeremiahogingo/LeetCode-Solutions": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "misnaej/forge": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Infinibay/infinidev": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "drtikov/microbrainsforagents": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "WallStArb/IndicAgent": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "emscripten-forge/pyjs": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "agoranomos/agoranomos": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "uwuclxdy/ai-pricelog": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "microsoft/mlvc": {
+        "stars": 420,
+        "seen": "2026-11-18"
+      },
+      "kanuli/daily-brief-newspaper": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "Paulo-Marcos-Lucio/observatorio-da-superficie": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "vjkumar2756/ai-timetable-scheduler": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Zaifat/SmartShell-API": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "MoonLadderStudios/MoonMind": {
+        "stars": 13,
+        "seen": "2026-11-18"
+      },
+      "noloyswy1993/Tonkeeper-Fake-Balance": {
+        "stars": 38,
+        "seen": "2026-11-18"
+      },
+      "Ga-Lee/Frequency-aware-Length-EXtension": {
+        "stars": 118,
+        "seen": "2026-11-18"
+      },
+      "lixiang1haoo-glitch/InkStruct-Public": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "kabiri-labs/rcekit": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "rudycelekli/rudycelekli": {
+        "stars": 4,
+        "seen": "2026-11-18"
+      },
+      "ashuujha/ashuujha": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "PostHog/posthog": {
+        "stars": 40895,
+        "seen": "2026-11-18"
+      },
+      "ShreyasD46/Human_posture_recognition_pre": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "wachawo/speech-to-text": {
+        "stars": 6,
+        "seen": "2026-11-18"
+      },
+      "makariim/formwork": {
+        "stars": 31,
+        "seen": "2026-11-18"
+      },
+      "alfielambert/signal-stack": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "lightseekorg/tokenspeed": {
+        "stars": 2932,
+        "seen": "2026-11-18"
+      },
+      "jomcgi-org/homelab": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "Ahmed-Bayoumy/DMDO": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "diagridio/python-ai": {
+        "stars": 9,
+        "seen": "2026-11-18"
+      },
+      "Motphys/motrix-forge": {
+        "stars": 18,
+        "seen": "2026-11-18"
+      },
+      "agent0ai/agent-zero": {
+        "stars": 19913,
+        "seen": "2026-11-18"
+      },
+      "mewisme/mewisme": {
+        "stars": 5,
+        "seen": "2026-11-18"
+      },
+      "mikosbartlomiej-prog/trading-system": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "sam72x1/Super_Stocks": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "RokctAI/shared-workflows": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "fastapi/fastapi": {
+        "stars": 104897,
+        "seen": "2026-11-18"
+      },
+      "Mitasul/miora": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "RivRetrieve/RivRetrieve": {
+        "stars": 20,
+        "seen": "2026-11-18"
+      },
+      "Djelibeybi/lifx-emulator": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "Danuse84/Exodus-Fake-Balance": {
+        "stars": 934,
+        "seen": "2026-11-18"
+      },
+      "chiyum/claude-code-config": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "waterfall-project/wf-project": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "mohamednasih/attendo": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "keenroudy22/sports": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "XCode-NLP/KodaSkills": {
+        "stars": 25,
+        "seen": "2026-11-18"
+      },
+      "innercoder78/shadow-slave-monitor": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "nuuuwan/news_long_lk": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "fyjgtddco/DSH-SW-and-CAD": {
+        "stars": 60,
+        "seen": "2026-11-18"
+      },
+      "soumendrak/openodia": {
+        "stars": 8,
+        "seen": "2026-11-18"
+      },
+      "aieditsram-svg/kodi9": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "ennnaftchi-pixel/statuswatch": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "wuyangdaily/chrome_installer": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "sportlive18/All-Playlist": {
+        "stars": 10,
+        "seen": "2026-11-18"
+      },
+      "boldaxolotl/booley": {
+        "stars": 28,
+        "seen": "2026-11-18"
+      },
+      "greenbone/autohooks": {
+        "stars": 204,
+        "seen": "2026-11-18"
+      },
+      "Krande/adapy": {
+        "stars": 113,
+        "seen": "2026-11-18"
+      },
+      "ccxt/ccxt": {
+        "stars": 44915,
+        "seen": "2026-11-18"
+      },
+      "Nismozzz/FitnessPro": {
+        "stars": 2,
+        "seen": "2026-11-18"
+      },
+      "scallion7/xc_sx_agent": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      },
+      "talalkashar/watchpost": {
+        "stars": 12,
+        "seen": "2026-11-18"
+      },
+      "lagrange-a1/DushuoServer": {
+        "stars": 3,
+        "seen": "2026-11-18"
+      }
+    }
   }
 ]
